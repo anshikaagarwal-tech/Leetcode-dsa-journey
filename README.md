@@ -14,6 +14,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
