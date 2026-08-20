@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | ------- |
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 ## Sorting
