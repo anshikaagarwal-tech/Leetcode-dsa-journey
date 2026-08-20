@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
