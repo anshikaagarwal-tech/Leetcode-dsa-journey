@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
