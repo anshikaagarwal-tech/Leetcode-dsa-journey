@@ -11,4 +11,12 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
