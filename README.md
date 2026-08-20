@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
@@ -37,12 +38,14 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
@@ -132,4 +135,12 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
