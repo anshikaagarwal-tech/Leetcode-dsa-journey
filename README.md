@@ -11,6 +11,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | ------- |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
