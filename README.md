@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
