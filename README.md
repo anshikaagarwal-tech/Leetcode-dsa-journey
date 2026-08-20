@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | ------- |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
