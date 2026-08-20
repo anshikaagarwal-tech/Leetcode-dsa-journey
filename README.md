@@ -52,4 +52,8 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
