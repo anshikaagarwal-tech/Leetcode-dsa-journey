@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +70,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -85,4 +88,8 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
