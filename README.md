@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
@@ -85,6 +87,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
