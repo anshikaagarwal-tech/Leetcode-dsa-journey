@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0796-rotate-string) |
+| [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -154,5 +156,10 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
