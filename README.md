@@ -151,4 +151,8 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
