@@ -34,12 +34,7 @@ class Solution {
         // Difference in number of ? between halves
         int qDiff = leftQ - rightQ;
 
-        /*
-         * Each pair of '?' can contribute a difference of
-         * at most 9, so:
-         *
-         * diff must be exactly balanced by qDiff * 9/2
-         */
+        
         return diff != -(qDiff * 9) / 2;
     }
 }
