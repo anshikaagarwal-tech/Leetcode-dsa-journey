@@ -15,6 +15,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0455-assign-cookies) |
@@ -112,6 +113,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
@@ -132,6 +134,7 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -162,4 +165,8 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
