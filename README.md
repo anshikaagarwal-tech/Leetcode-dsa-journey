@@ -27,11 +27,13 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 | [0001-two-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/1927-sum-game) |
 ## String Matching
@@ -169,4 +171,5 @@ A collection of my LeetCode solutions in Java, organized by DSA patterns to trac
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/anshikaagarwal-tech/Leetcode-dsa-journey/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
